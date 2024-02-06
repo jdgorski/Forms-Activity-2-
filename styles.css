@@ -5,5 +5,52 @@ body{
      background-color: rgba(255, 255, 255, 0.7);
    background-blend-mode: lighten;
     position: center;
-  
   }
+.title{
+text-align: center;
+color: red;
+font-size: 40px;
+background-color: lightgreen;
+}
+.red{
+text-align: center;
+color: aqua;
+background-color: red;
+}
+.form{
+text-align: center;
+background-color: darkgreen;
+font: bold;
+}
+.music{
+text-align: center;
+color: aqua;
+background-color: darkred;
+
+}
+.pe{
+background-color: gray;
+text-align: center;
+color: bisque;
+
+}
+.a{
+text-align: center;
+color: rgb(182, 25, 116);
+font-size: larger;
+background-color: darksalmon;
+}
+
+.h{
+text-align: center;
+background-color: hotpink;
+color: grey;
+
+}
+.m{
+text-align: center;
+background-color: purple;
+color: aquamarine;
+
+
+}
